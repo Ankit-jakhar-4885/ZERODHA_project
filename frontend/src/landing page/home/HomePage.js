@@ -16,7 +16,7 @@ function HomePage() {
     return ( 
         <>
          
-            <Hero />
+            <Hero/>
             <Awards/>
             <Stats/>
             <Pricing />
